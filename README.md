@@ -1,4 +1,4 @@
-# FED
+# DbgFlashVul
 DbgFlashVul
 
 A extension of Windbg, help to debug flash samples
